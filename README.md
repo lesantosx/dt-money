@@ -10,6 +10,7 @@
 - <a href="https://www.react-hook-form.com">React Hook Form</a>
 - <a href="https://www.typescriptlang.org">TypeScript</a>
 - <a href="https://styled-components.com">Styled Components</a>
+- <a href="https://www.radix-ui.com">Radix UI</a>
 - <a href="https://github.com/typicode/json-server/tree/v0">json-server</a>
 
 <h1>:art: Prototype</h1>
