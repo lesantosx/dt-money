@@ -4,6 +4,7 @@
 ![Badge](https://img.shields.io/badge/With-Rocketseat-%237159c1?style=for-the-badge&logo=purple)
 
 <h1>:computer: Technologies</h1>
+
 - <a href="https://vite.dev">Vite</a> 
 - <a href="https://reactjs.org">React</a>
 - <a href="https://www.react-hook-form.com">React Hook Form</a>
